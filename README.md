@@ -1,1 +1,1 @@
-# asr-model-for-transcribing-swahili-audio-to-text
+# Automated Speech Recognition (ASR) Model for Transcribing Swahili Audio to Text
